@@ -17,7 +17,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=github.com/SANJEEV1438&show_icons=true&locale=en" alt="github.com/SANJEEV1438" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=github.com/SANJEEV1438&show_icons=true&locale=en&layout=compact" alt="github.com/SANJEEV1438" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github.com/SANJEEV1438" alt="github.com/SANJEEV1438" /></a></p>
-## Hi there 👋
 
 <!--
 **SANJEEV1438/sanjeev1438** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
